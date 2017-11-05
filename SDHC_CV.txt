@@ -45,7 +45,10 @@ Research Experience
 - Universidad de los Andes Bogotá (Colombia)
 
 August 2016 - December 2016 / Undergraduate Thesis
-Worked on medical images analysis in order to develop a tool for the Segmentation of the aorta artery for applications such as  the quantification of the elasticity of the aorta artery  and quantification of the aorta artery calcifications under the direction of prof. Marcela Hernandez.
+Worked on medical images analysis in order to develop a tool for the 
+Segmentation of the aorta artery for applications such as  the quantification 
+of the elasticity of the aorta artery  and quantification of the aorta artery 
+calcifications under the direction of prof. Marcela Hernandez.
 
 January 2016 - May 2016 / Undergraduate Thesis
 Laniakea in a Cosmological Context (or Detection of Galaxies Superclusters
@@ -60,7 +63,9 @@ Hernandez.
 
 - Laboratoire CPPM, Marseille France
 June 2016 - July 2016 /Intern LSST Project
-Studied  and implemented different image processing techniques for the detection of transients in astrophysical images. Under the supervision of scientist Dominique Fouchez.
+Studied  and implemented different image processing techniques for the 
+detection of transients in astrophysical images. Under the supervision 
+of scientist Dominique Fouchez.
 
 - Fermi National Laboratory	Neutrino Division, Batavia (U.S.A.)
 
@@ -96,7 +101,8 @@ Skills
 
 Software and programming
 
-- Java, Python, IPython, C, Javascript, HTML5, CSS, Firebase, MATLAB, Processing, Arduino, Assembler, UML, Git, PHP.
+- Java, Python, IPython, C, Javascript, HTML5, CSS, Firebase, MATLAB, 
+Processing, Arduino, Assembler, UML, Git, PHP.
 - Familiar with Linux, Windows and MAC OS. 
 
 
